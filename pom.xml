@@ -17,5 +17,13 @@
   </dependencies>
   <build>
     <finalName>maven</finalName>
+   <plugins>    <plugin>            
+  <groupId>org.apache.maven.plugins</groupId>
+  <artifactId>maven-war-plugin</artifactId>
+  <configuration>
+    <webXml>maven\src\main\webapp\WEB-INF\web.xml</webXml>        
+  </configuration>
+</plugin>
+ </plugins>  
   </build>
 </project>
