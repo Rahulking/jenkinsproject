@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23800" started-at="2019-04-17T05:55:26Z" finished-at="2019-04-17T05:55:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23800" started-at="2019-04-17T05:55:26Z" finished-at="2019-04-17T05:55:50Z">
+      <class name="mypack.Mav">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:mypack.Mav@28feb3fa]" name="beforeMethod" is-config="true" duration-ms="18299" started-at="2019-04-17T11:25:26Z" finished-at="2019-04-17T11:25:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:mypack.Mav@28feb3fa]" name="Login" duration-ms="5222" started-at="2019-04-17T11:25:44Z" finished-at="2019-04-17T11:25:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:mypack.Mav@28feb3fa]" name="afterMethod" is-config="true" duration-ms="251" started-at="2019-04-17T11:25:50Z" finished-at="2019-04-17T11:25:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- mypack.Mav -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
