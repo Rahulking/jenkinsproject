@@ -1286,3 +1286,11 @@
 2019-04-17 12:59:06,605 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
 2019-04-17 12:59:07,152 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\jenkinsproject\maven
 2019-04-17 12:59:07,153 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2019-04-17 15:00:37,198 [Worker-73] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mavengroup:maven:0.0.1-SNAPSHOT @ C:\jenkinsproject\maven\pom.xml.
+2019-04-17 15:00:38,085 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 15:00:38,145 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-17 15:00:38,147 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-17 15:00:38,148 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\jenkinsproject\maven\src\test\resources
+2019-04-17 15:00:38,149 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of maven
+2019-04-17 15:00:38,150 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for maven
+2019-04-17 15:00:38,181 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
